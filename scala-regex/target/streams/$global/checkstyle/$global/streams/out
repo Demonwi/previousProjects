@@ -1,0 +1,17 @@
+[0m[[0m[0mdebug[0m] [0m[0mStarting scalastyle[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /Users/jerryfu/scala-regex/src/main/scala/Main.scala[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/main/scala/Main.scala:54:3: [0m
+[0m[[0m[31merror[0m] [0m[0m     Do not use 'var' to declare variables. Use 'val' instead.[0m
+[0m[[0m[31merror[0m] [0m[0m     [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/main/scala/Main.scala:55:3: [0m
+[0m[[0m[31merror[0m] [0m[0m     Do not use 'var' to declare variables. Use 'val' instead.[0m
+[0m[[0m[31merror[0m] [0m[0m     [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/main/scala/Main.scala:56:3: [0m
+[0m[[0m[31merror[0m] [0m[0m     Do not use 'var' to declare variables. Use 'val' instead.[0m
+[0m[[0m[31merror[0m] [0m[0m     [0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/main/scala/Main.scala:57:3: [0m
+[0m[[0m[31merror[0m] [0m[0m     Do not use 'var' to declare variables. Use 'val' instead.[0m
+[0m[[0m[31merror[0m] [0m[0m     [0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /Users/jerryfu/scala-regex/src/main/scala/Main.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mstart file /Users/jerryfu/scala-regex/src/test/scala/Tests.scala[0m
+[0m[[0m[0mdebug[0m] [0m[0mend file /Users/jerryfu/scala-regex/src/test/scala/Tests.scala[0m

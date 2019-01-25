@@ -1,0 +1,4 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-sudoku/src/main/scala/Main.scala:120:39: not found: value int[0m
+[0m[[0m[31merror[0m] [0m[0m      println(row + " " + col + " " + int)[0m
+[0m[[0m[31merror[0m] [0m[0m                                      ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

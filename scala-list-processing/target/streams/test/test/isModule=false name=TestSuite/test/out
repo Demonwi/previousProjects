@@ -1,0 +1,42 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- oddNumbers properly defined[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sumDouble basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sumDouble negative test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sumDouble empty test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- removeZeros basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- removeZeros all zeros test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- removeZeros no zeros test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- removeZeros empty test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- countEvens basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- countEvens negative test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- countEvens no evens test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- countEvens all evens test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- countEvens empty test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- removeAlternating oddCount test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- removeAlternating evenCount test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- removeAlternating empty test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- Helper firstVal basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isAscending false test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isAscending repetition false test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isAscending negative included false test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isAscending true test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isAscending repetition true test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- isAscending negative included true test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- addSub oddCount test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- addSub evenCount test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- addSub empty test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- alternating basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- alternating fail test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- alternating repetition test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- fromTo basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- fromTo empty test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- fromTo error test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- insertOrdered basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- insertOrdered duplicate test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- insertOrdered empty test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort empty test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- sort repetition test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- quickSort basic test (Its literally called in sort)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- allLT basic test[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- allGTE basic test[0m[0m

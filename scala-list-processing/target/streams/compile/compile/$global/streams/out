@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-list-processing/src/main/scala/Lists.scala:86:16: illegal start of simple pattern[0m
+[0m[[0m[31merror[0m] [0m[0m          case ._ => throw new IllegalArgumentException("Lists are not the same length")[0m
+[0m[[0m[31merror[0m] [0m[0m               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-list-processing/src/main/scala/Lists.scala:87:9: '=>' expected but '}' found.[0m
+[0m[[0m[31merror[0m] [0m[0m        }[0m
+[0m[[0m[31merror[0m] [0m[0m        ^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

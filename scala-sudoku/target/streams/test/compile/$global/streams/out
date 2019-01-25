@@ -1,0 +1,7 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-sudoku/src/test/scala/Tests.scala:46:4: not found: value cBoard[0m
+[0m[[0m[31merror[0m] [0m[0m  	cBoard.printBoard(0)[0m
+[0m[[0m[31merror[0m] [0m[0m  	^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-sudoku/src/test/scala/Tests.scala:47:4: not found: value bBoard[0m
+[0m[[0m[31merror[0m] [0m[0m  	bBoard.printBoard(0)[0m
+[0m[[0m[31merror[0m] [0m[0m  	^[0m
+[0m[[0m[31merror[0m] [0m[0mtwo errors found[0m

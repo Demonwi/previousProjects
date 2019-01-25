@@ -1,0 +1,18 @@
+[0m[[0m[0minfo[0m] [0m[0m[32mTestSuite:[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- The solution object must be defined[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- valAT[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- peers[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[32m- place[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m- Solve *** FAILED ***[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  java.lang.IllegalArgumentException: requirement failed[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at scala.Predef$.require(Predef.scala:264)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.place(Main.scala:123)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.numRemoval(Main.scala:153)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.place(Main.scala:130)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.numRemoval(Main.scala:153)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.place(Main.scala:130)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.numRemoval(Main.scala:153)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.numRemoval(Main.scala:153)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.numRemoval(Main.scala:153)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  at Board.place(Main.scala:130)[0m[0m
+[0m[[0m[0minfo[0m] [0m[0m[31m  ...[0m[0m

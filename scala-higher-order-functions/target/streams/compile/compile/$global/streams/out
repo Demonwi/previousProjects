@@ -1,0 +1,5 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-higher-order-functions/src/main/scala/Main.scala:114:58: not enough arguments for method sort: (lessThan: (A, A) => Boolean, alist: List[A])List[A].[0m
+[0m[[0m[31merror[0m] [0m[0mUnspecified value parameter alist.[0m
+[0m[[0m[31merror[0m] [0m[0m  	 	case head :: tail => merge(lessThan, head::Nil, sort(tail))[0m
+[0m[[0m[31merror[0m] [0m[0m  	 	                                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m

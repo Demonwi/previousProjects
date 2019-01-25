@@ -1,0 +1,52 @@
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:9:42: not found: value x1[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(notAlphanumeric.pattern.matcher(x1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:12:42: not found: value x2[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(notAlphanumeric.pattern.matcher(x2).matches == false)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                       ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:17:31: not found: value b1[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(time.pattern.matcher(b1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:20:31: not found: value b2[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(time.pattern.matcher(b2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:23:31: not found: value b3[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(time.pattern.matcher(b3).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:26:32: not found: value b4[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(!time.pattern.matcher(b4).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:29:32: not found: value b5[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(!time.pattern.matcher(b5).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:34:32: not found: value c1[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(phone.pattern.matcher(c1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:37:32: not found: value c2[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(phone.pattern.matcher(c2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:42:30: not found: value d1[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(zip.pattern.matcher(d1).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:45:30: not found: value d2[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(zip.pattern.matcher(d2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                           ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:50:34: not found: value e[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(comment.pattern.matcher(e).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                               ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:55:39: not found: value f[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(numberPhrase.pattern.matcher(f).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                                    ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:60:32: not found: value g[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(roman.pattern.matcher(g).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                             ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:65:31: not found: value h1[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(date.pattern.matcher(h1).matches == false)[0m
+[0m[[0m[31merror[0m] [0m[0m		                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:68:31: not found: value h2[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(date.pattern.matcher(h2).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/Users/jerryfu/scala-regex/src/test/scala/Tests.scala:71:31: not found: value h3[0m
+[0m[[0m[31merror[0m] [0m[0m		assert(date.pattern.matcher(h3).matches)[0m
+[0m[[0m[31merror[0m] [0m[0m		                            ^[0m
+[0m[[0m[31merror[0m] [0m[0m17 errors found[0m

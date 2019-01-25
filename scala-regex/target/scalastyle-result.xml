@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<checkstyle version="5.0">
+ <file name="/Users/jerryfu/scala-regex/src/main/scala/Main.scala">
+  <error column="3" line="54" source="org.scalastyle.scalariform.VarLocalChecker" severity="error" message="
+     Do not use 'var' to declare variables. Use 'val' instead.
+     "/>
+  <error column="3" line="55" source="org.scalastyle.scalariform.VarLocalChecker" severity="error" message="
+     Do not use 'var' to declare variables. Use 'val' instead.
+     "/>
+  <error column="3" line="56" source="org.scalastyle.scalariform.VarLocalChecker" severity="error" message="
+     Do not use 'var' to declare variables. Use 'val' instead.
+     "/>
+  <error column="3" line="57" source="org.scalastyle.scalariform.VarLocalChecker" severity="error" message="
+     Do not use 'var' to declare variables. Use 'val' instead.
+     "/>
+ </file>
+</checkstyle>
